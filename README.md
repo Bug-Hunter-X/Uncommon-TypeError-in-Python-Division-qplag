@@ -1,0 +1,1 @@
+This repository showcases an uncommon error scenario in Python involving the division operator.  The primary bug involves a TypeError that occurs when attempting to divide a numerical value by a string. The solution provides a more robust way to handle this scenario using a combination of exception handling and type checking.
